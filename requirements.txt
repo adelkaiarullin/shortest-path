@@ -1,7 +1,4 @@
-torch
-torchvision
 matplotlib
 pandas
-cupy
 seaborn
 numpy
