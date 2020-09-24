@@ -1,2 +1,8 @@
 # shortest-path
-The repository contains an implementation of shortest path algorithm
+GMM. Heat method. Greedy graph for sulotion of rosneft shortest path challenge.
+
+## install
+
+```bash
+pip install -r requirements.txt
+```
